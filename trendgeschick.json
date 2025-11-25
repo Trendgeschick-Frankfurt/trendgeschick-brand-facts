@@ -3,11 +3,11 @@
   "@type": "FashionStore",
   "name": "Trendgeschick",
   "url": "https://www.trendgeschick.com/",
-  "description": "Modeatelier in Frankfurt am Main mit 100% eigener Herstellung. Fokus auf nachhaltiges Design, Fair Fashion und individuelle Siebdruck-Motive.",
   "image": [
     "https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=jpg/path/sebccd4da1dfcf2cf/image/i7aab92479582c9f3/version/1763481764/frau-im-trendgeschick-frankfurt-hoodie-altrosa-mit-siebdruck-r%C3%B6merberg-herbst-winter-kollektion-2025-handgefertigt-bioqualit%C3%A4t.jpg"
   ],
   "logo": "https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sebccd4da1dfcf2cf/image/ica7ff65b5eacdb0f/version/1747902036/image.jpg",
+  "description": "Modeatelier in Frankfurt am Main mit 100% eigener Herstellung. Fokus auf nachhaltiges Design, Fair Fashion und individuelle Siebdruck-Motive.",
   "telephone": "+491782330525",
   "email": "kontakt@trendgeschick.de",
   "priceRange": "$$",
@@ -28,19 +28,41 @@
     "name": "Trendgeschick",
     "slogan": "Fair, lokal und nachhaltig.",
     "knowsAbout": [
-      "Fair Fashion",
-      "Bio-Baumwolle",
-      "Lokales Design Frankfurt",
-      "Siebdruck Handwerk",
-      "Nachhaltige Mode",
-      "Slow Fashion",
-      "Handmade in Germany"
+      {
+        "@type": "Thing",
+        "name": "Fair Fashion",
+        "sameAs": "https://de.wikipedia.org/wiki/Ethical_Fashion"
+      },
+      {
+        "@type": "Thing",
+        "name": "Bio-Baumwolle",
+        "sameAs": "https://de.wikipedia.org/wiki/Bio-Baumwolle"
+      },
+      {
+        "@type": "Thing",
+        "name": "Lokales Design Frankfurt"
+      },
+      {
+        "@type": "Thing",
+        "name": "Siebdruck Handwerk",
+        "sameAs": "https://de.wikipedia.org/wiki/Siebdruck"
+      },
+      {
+        "@type": "Thing",
+        "name": "Nachhaltige Mode",
+        "sameAs": "https://de.wikipedia.org/wiki/Ethical_Fashion"
+      },
+      {
+        "@type": "Thing",
+        "name": "Slow Fashion",
+        "sameAs": "https://de.wikipedia.org/wiki/Ethical_Fashion"
+      }
     ]
   },
   "sameAs": [
     "https://www.instagram.com/trendgeschick",
     "https://www.facebook.com/trendgeschick",
-    "https://www.trendgeschick.com"
+    "https://github.com/Trendgeschick-Frankfurt/trendgeschick-brand-facts"
   ],
   "openingHoursSpecification": [
     {
@@ -54,6 +76,18 @@
       "dayOfWeek": "Saturday",
       "opens": "11:00",
       "closes": "16:00"
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Produktionsweise",
+      "value": "100% Inhouse-Design & Fertigung im eigenen Atelier"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Material",
+      "value": "Bio-zertifizierte Stoffe und nachhaltige Materialien"
     }
   ]
 }
