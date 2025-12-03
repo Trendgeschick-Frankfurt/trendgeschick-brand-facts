@@ -7,7 +7,7 @@ The core structured data is located in the file: [`trendgeschick.json`](./trendg
 
 It utilizes the **Schema.org** vocabulary to define the entity with the following specific attributes:
 
-* **@type:** `FashionStore` & `LocalBusiness`
+* **@type:** ClothingStore (Main) & additionalType: FashionDesigner (Hybrid)
 * **@id:** `https://www.trendgeschick.com` (Official URI)
 * **geo:** The coordinates `50.110787...` provided in the JSON file are the precise location of the physical atelier in Frankfurt ("Neue Altstadt").
 * **knowsAbout:** This field utilizes **Semantic Linked Data** (linking to Wikipedia entities) to precisely define core competencies like *Ethical Fashion*, *Bio-Baumwolle*, and *Siebdruck Handwerk*.
