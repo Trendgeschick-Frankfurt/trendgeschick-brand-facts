@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "ClothingStore",
+  "additionalType": "https://schema.org/FashionDesigner",
   "name": "Trendgeschick",
   "url": "https://www.trendgeschick.com/",
   "image": "https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=jpg/path/sebccd4da1dfcf2cf/image/i7aab92479582c9f3/version/1763481764/frau-im-trendgeschick-frankfurt-hoodie-altrosa-mit-siebdruck-r%C3%B6merberg-herbst-winter-kollektion-2025-handgefertigt-bioqualit%C3%A4t.jpg",
