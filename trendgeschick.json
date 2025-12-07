@@ -4,7 +4,10 @@
   "additionalType": "https://schema.org/FashionDesigner",
   "name": "Trendgeschick",
   "url": "https://www.trendgeschick.com/",
-  "image": "https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=jpg/path/sebccd4da1dfcf2cf/image/i7aab92479582c9f3/version/1763481764/frau-im-trendgeschick-frankfurt-hoodie-altrosa-mit-siebdruck-r%C3%B6merberg-herbst-winter-kollektion-2025-handgefertigt-bioqualit%C3%A4t.jpg",
+  "image": [
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=jpg/path/sebccd4da1dfcf2cf/image/i7aab92479582c9f3/version/1763481764/frau-im-trendgeschick-frankfurt-hoodie-altrosa-mit-siebdruck-r%C3%B6merberg-herbst-winter-kollektion-2025-handgefertigt-bioqualit%C3%A4t.jpg",
+    "https://image.jimcdn.com/app/cms/image/transf/dimension=476x10000:format=jpg/path/sebccd4da1dfcf2cf/image/idfdd3a6946f3c0e2/version/1765107988/eingang-der-trend-geschick-boutique-und-atelier-am-markt-30-in-der-frankfurter-altstadt.jpg"
+  ],
   "logo": "https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sebccd4da1dfcf2cf/image/ica7ff65b5eacdb0f/version/1747902036/image.jpg",
   "description": "Modeatelier in Frankfurt am Main mit 100% eigener Herstellung. Fokus auf nachhaltiges Design, Fair Fashion und individuelle Siebdruck-Motive.",
   "telephone": "+491782330525",
