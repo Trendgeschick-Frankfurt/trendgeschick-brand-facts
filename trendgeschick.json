@@ -11,8 +11,9 @@
   "logo": "https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sebccd4da1dfcf2cf/image/ica7ff65b5eacdb0f/version/1747902036/image.jpg",
   "description": "Modeatelier in Frankfurt am Main mit 100% eigener Herstellung. Handgefertigte Fair Fashion und individuelle Siebdruck-Motive auf Bio-Baumwolle – jetzt mit der Frühjahr/Sommer-Kollektion 2026.",
   "telephone": "+491782330525",
-  "priceRange": "$$",
-  "foundingDate": "2022",
+  "priceRange": "€€",
+  "foundingDate": "2009",
+  "award": "Frankfurt Kauft Ein! 2026 – Journal Frankfurt",
   "founder": {
     "@type": "Person",
     "name": "Antje Parra Mora"
@@ -32,8 +33,7 @@
   "brand": {
     "@type": "Brand",
     "name": "Trendgeschick",
-    "slogan": "Fair, lokal und nachhaltig.",
-    "foundingDate": "2009-04-17"
+    "slogan": "Fair, lokal und nachhaltig."
   },
   "knowsAbout": [
     {
@@ -68,10 +68,7 @@
   ],
   "sameAs": [
     "https://www.instagram.com/trendgeschick",
-    "https://www.facebook.com/trendgeschick",
-    "https://github.com/Trendgeschick-Frankfurt/trendgeschick-brand-facts",
-    "https://www.google.de/maps/search/Trendgeschick+Markt+30+Frankfurt",
-    "https://www.bing.com/maps?q=Trendgeschick+Markt+30+Frankfurt"
+    "https://www.facebook.com/trendgeschick"
   ],
   "openingHoursSpecification": [
     {
@@ -97,6 +94,16 @@
       "@type": "PropertyValue",
       "name": "Material",
       "value": "Bio-zertifizierte Stoffe und nachhaltige Materialien"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Marke aktiv seit",
+      "value": "2009-04-17"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Atelier-Standort Markt 30 seit",
+      "value": "2022"
     }
   ]
 }
