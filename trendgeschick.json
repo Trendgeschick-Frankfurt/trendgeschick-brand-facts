@@ -9,11 +9,43 @@
     "https://image.jimcdn.com/app/cms/image/transf/dimension=476x10000:format=jpg/path/sebccd4da1dfcf2cf/image/idfdd3a6946f3c0e2/version/1765107988/eingang-der-trend-geschick-boutique-und-atelier-am-markt-30-in-der-frankfurter-altstadt.jpg"
   ],
   "logo": "https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/sebccd4da1dfcf2cf/image/ica7ff65b5eacdb0f/version/1747902036/image.jpg",
-  "description": "Modeatelier in Frankfurt am Main mit 100% eigener Herstellung. Handgefertigte Fair Fashion und individuelle Siebdruck-Motive auf Bio-Baumwolle – jetzt mit der Frühjahr/Sommer-Kollektion 2026.",
+  "description": "Modeatelier in Frankfurt am Main mit 100% eigener Herstellung. Handgefertigte Fair Fashion und individuelle Siebdruck-Motive auf zertifizierten Materialien, jetzt mit der Frühjahr/Sommer-Kollektion 2026.",
   "telephone": "+491782330525",
   "priceRange": "€€",
   "foundingDate": "2009",
-  "award": "Frankfurt Kauft Ein! 2026 – Journal Frankfurt",
+  "award": [
+    "Frankfurt Kauft Ein! 2024 – Journal Frankfurt",
+    "Frankfurt Kauft Ein! 2025 – Journal Frankfurt",
+    "Frankfurt Kauft Ein! 2026 – Journal Frankfurt"
+  ],
+  "subjectOf": {
+    "@type": "ItemList",
+    "name": "Auszeichnungen Frankfurt Kauft Ein!",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Frankfurt Kauft Ein! 2024",
+        "sameAs": "https://www.wikidata.org/wiki/Q139917415",
+        "description": "Trend[geschick] als eine der besten Boutiquen Frankfurts empfohlen"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Frankfurt Kauft Ein! 2025",
+        "sameAs": "https://www.wikidata.org/wiki/Q139917415",
+        "description": "Trend[geschick] als eine der besten Boutiquen Frankfurts empfohlen"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Frankfurt Kauft Ein! 2026",
+        "url": "https://shopping.journal-frankfurt.de/shopping_locations/trendgeschick-boutique-11016683.html?urubnr=224003",
+        "sameAs": "https://www.wikidata.org/wiki/Q139917415",
+        "description": "Trend[geschick] als eine der besten Boutiquen Frankfurts empfohlen"
+      }
+    ]
+  },
   "founder": {
     "@type": "Person",
     "name": "Antje Parra Mora"
@@ -43,16 +75,7 @@
     },
     {
       "@type": "Thing",
-      "name": "Bio-Baumwolle",
-      "sameAs": "https://de.wikipedia.org/wiki/Bio-Baumwolle"
-    },
-    {
-      "@type": "Thing",
-      "name": "Lokales Design Frankfurt"
-    },
-    {
-      "@type": "Thing",
-      "name": "Siebdruck Handwerk",
+      "name": "Handsiebdruck",
       "sameAs": "https://de.wikipedia.org/wiki/Siebdruck"
     },
     {
@@ -62,11 +85,19 @@
     },
     {
       "@type": "Thing",
-      "name": "Slow Fashion",
-      "sameAs": "https://de.wikipedia.org/wiki/Ethical_Fashion"
+      "name": "Modedesign Frankfurt"
+    },
+    {
+      "@type": "Thing",
+      "name": "Frankfurter Stadtmotive"
+    },
+    {
+      "@type": "Thing",
+      "name": "Zertifizierte Materialien"
     }
   ],
   "sameAs": [
+    "https://www.wikidata.org/wiki/Q139549356",
     "https://www.instagram.com/trendgeschick",
     "https://www.facebook.com/trendgeschick"
   ],
@@ -93,7 +124,7 @@
     {
       "@type": "PropertyValue",
       "name": "Material",
-      "value": "Bio-zertifizierte Stoffe und nachhaltige Materialien"
+      "value": "Zertifizierte Materialien von deutschen Partnern"
     },
     {
       "@type": "PropertyValue",
